@@ -13,3 +13,4 @@
 
 console.log("Kind of a test for the update 18.0");
 console.log("Good Bye");
+console.log("Hope you felling better in the future");
