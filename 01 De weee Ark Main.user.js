@@ -2,7 +2,7 @@
 // @name         SPA JET NEW 18.00
 // @namespace    http://tampermonkey.net/
 // @license      MIT
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @author       You
 // @match        https://paragon-eu.amazon.com/hz/*
@@ -12,3 +12,4 @@
 // ==/UserScript==
 
 console.log("Kind of a test for the update 18.0");
+console.log("Good Bye");
