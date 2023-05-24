@@ -1,13 +1,14 @@
 // ==UserScript==
-// @name         SPA JET MAIN
+// @name         SPA JET NEW 19.00
 // @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  This is a useful script for spa
+// @license      MIT
+// @version      5.0
+// @description  try to take over the world!
 // @author       You
 // @match        https://paragon-eu.amazon.com/hz/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // @grant        GM.setClipboard
 // @grant        GM_xmlhttpRequest
-// ==/UserScript==
+// ==UserScript==
 
-console.log("Editor 01");
+alert("Editor test");
