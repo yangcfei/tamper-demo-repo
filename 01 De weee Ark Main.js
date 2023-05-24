@@ -2,7 +2,7 @@
 // @name         SPA JET MAIN
 // @namespace    http://tampermonkey.net/
 // @license      MIT
-// @version      2.0
+// @version      3.0
 // @description  This is a useful script for spa
 // @author       You
 // @match        https://paragon-eu.amazon.com/hz/*
