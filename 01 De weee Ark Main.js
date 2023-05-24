@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SPA JET
+// @name         SPA JET NEW 17.51
 // @namespace    http://tampermonkey.net/
 // @license      MIT
 // @version      3.2
