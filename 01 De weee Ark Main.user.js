@@ -11,4 +11,4 @@
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
-console.log("Kind of a test for the update");
+console.log("Kind of a test for the update 18.0");
