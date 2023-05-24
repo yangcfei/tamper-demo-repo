@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @license      MIT
 // @version      5.0
-// @description  try to take over the world!
+// @description  This is the first script used for the tampermonkey
 // @author       You
 // @match        https://paragon-eu.amazon.com/hz/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
