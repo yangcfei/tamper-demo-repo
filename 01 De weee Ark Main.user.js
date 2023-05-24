@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         SPA JET NEW 17.51
+// @name         SPA JET NEW 18.00
 // @namespace    http://tampermonkey.net/
 // @license      MIT
-// @version      3.2
+// @version      3.5
 // @description  try to take over the world!
 // @author       You
 // @match        https://paragon-eu.amazon.com/hz/*
